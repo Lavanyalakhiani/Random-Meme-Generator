@@ -16,7 +16,7 @@ The Random Meme Generator is a simple web application that fetches and displays 
 --HTML: For the basic structure of the application. \
 --CSS: For styling the application and ensuring a responsive design. \
 --JavaScript: For fetching memes from the API and dynamically updating the DOM. \
---Meme API: To provide a source of random memes. \
+--Meme API: To provide a source of random memes. 
 
 # RANDOM MEMES GENERATED::
 
