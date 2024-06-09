@@ -1,5 +1,6 @@
 # Random-Meme-Generator
 
+VIEW PROJECT: https://lavanyalakhiani.github.io/Random-Meme-Generator/
 Introduction:
 The Random Meme Generator is a simple web application that fetches and displays random memes at the click of a button. This project is built using HTML, CSS, and JavaScript and showcases the use of APIs to fetch data and DOM manipulation to display it dynamically.
 
